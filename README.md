@@ -18,7 +18,7 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ## Project Description
-(Battle Game) is a multi-player turn based combat game that is played online. This game allows player to battle each other using customized characters. This project was inspired by many of the games that the developers played growing up. This game was built to satisfy the requirements for project 2 of the UT Austin coding bootcamp. 
+Battle of the Shadow Tome is a multi-player turn based combat game that is played online. This game allows player to battle each other using customized characters. This project was inspired by many of the games that the developers played growing up. This game was built to satisfy the requirements for project 2 of the UT Austin coding bootcamp. 
 
 ## How to Use This Project
 1) Go to  [our game page](https://the-shadow-tome.herokuapp.com/)
